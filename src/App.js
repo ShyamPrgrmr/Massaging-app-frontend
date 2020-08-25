@@ -18,7 +18,7 @@ class App extends React.Component{
                   regemail:'',
                   loginname:'',
                   loginpassword:'',
-                  url:'https://warm-brushlands-24002.herokuapp.com:55498/',
+                  url:'https://warm-brushlands-24002.herokuapp.com/',
                   token:'',
                   msg:'',
                   msgqueue:[],
